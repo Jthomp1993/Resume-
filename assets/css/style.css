@@ -271,7 +271,7 @@ footer {
 .progress {
     position: relative;
     height: 25px;
-    line-height: 20px;
+    line-height: 25pxpx;
     margin-bottom: 4px;
 }
 
@@ -286,5 +286,6 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+
 }
 
