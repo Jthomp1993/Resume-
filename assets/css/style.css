@@ -15,7 +15,7 @@
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #488daf;
 }
 
 .bg-color-contact {
@@ -27,11 +27,11 @@
 }
 
 .ui-menu-color-resume {
-    background-color: #9b59b6;
+    background-color: #0c8ecc;
 }
 
 .ui-menu-color-contact {
-    background-color: #3498db;
+    background-color: #e84610;
 }
 
 .ui-menu-color-download {
@@ -88,7 +88,7 @@ header {
 }
 
 .logo {
-    background: url("../images/Rosie.jpg");
+    background: url("../images/profile.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
